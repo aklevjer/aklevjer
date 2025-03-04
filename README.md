@@ -1,7 +1,7 @@
-### Hello there! :wave:
+### Hello there, I'm Aleksander :wave:
 
-I'm Aleksander, a 33 year old from Porsgrunn, Norway.
+Front-end developer based in **Norway**, currently expanding into back-end.
 
-- 🎓 Currently studying front-end development at Noroff.
-- 🖥️ Passionate about learning and mastering new technologies.
-- 📫 You can reach me on: [LinkedIn](https://www.linkedin.com/in/aklevjer/).
+Graduated from Noroff after two years of front-end studies, now pursuing back-end development full-time.
+
+[`LinkedIn`](https://www.linkedin.com/in/aklevjer) • [`Portfolio`](https://portfolio2-ak.netlify.app) • [`Email`](mailto:aleksander.klevjer@gmail.com)
