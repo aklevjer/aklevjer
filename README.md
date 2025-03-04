@@ -1,6 +1,6 @@
 ### Hello there, I'm Aleksander :wave:
 
-Front-end developer based in **Norway**, currently expanding into back-end.
+Front-end developer based in Norway, currently expanding into back-end.
 
 Graduated from Noroff after two years of front-end studies, now pursuing back-end development full-time.
 
