@@ -1,7 +1,7 @@
 ### Hello there, I'm Aleksander :wave:
 
-Front-end developer based in Norway, currently expanding into back-end.
+Front-End Developer based in Norway.
 
-Graduated from Noroff after two years of front-end studies, now pursuing back-end development full-time.
+Graduated from Noroff after two years of Front-End and one year of Back-End studies.
 
-[`LinkedIn`](https://www.linkedin.com/in/aklevjer) • [`Portfolio`](https://portfolio2-ak.netlify.app) • [`Email`](mailto:aleksander.klevjer@gmail.com)
+[`LinkedIn`](https://www.linkedin.com/in/aklevjer) • [`Portfolio`](https://portfolio2-ak.netlify.app) • [`Email`](mailto:alexz_91_@hotmail.com)
